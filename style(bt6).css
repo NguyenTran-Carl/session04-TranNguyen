@@ -1,0 +1,9 @@
+#text {
+    color: red;
+    background-color: slategrey;
+}
+
+#center {
+    text-align: center;
+    border: 3px solid green;
+}
